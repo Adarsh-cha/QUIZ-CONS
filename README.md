@@ -19,13 +19,13 @@ At the end, the score is displayed.
    java QuizApp
    
 ## Project Structure
-<---
 QUIZ-CONS
 │
 ├── Main.java
 ├── Question.java
 ├── QuestionService.java
 └── README.md
+
 
 ## Author
 Adarsh
