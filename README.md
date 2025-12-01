@@ -12,11 +12,11 @@ At the end, the score is displayed.
 - Shows final score
 
 ## How to Run
-1. Open the project in any Java IDE or terminal
+1. Open the project in any Java IDE or terminal.
 2. Compile the file:
-   javac QuizApp.java
+   javac Main.java
 3. Run the program:
-   java QuizApp
+   java Main
    
 ## Project Structure
 
