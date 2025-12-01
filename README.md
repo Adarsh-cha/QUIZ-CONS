@@ -19,6 +19,7 @@ At the end, the score is displayed.
    java QuizApp
    
 ## Project Structure
+<---
 QUIZ-CONS
 │
 ├── Main.java
