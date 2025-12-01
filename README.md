@@ -22,3 +22,6 @@ QUIZ-CONS
 │
 ├── QuizApp.java
 └── README.md
+
+## Author
+Adarsh
