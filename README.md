@@ -17,3 +17,8 @@ At the end, the score is displayed.
    javac QuizApp.java
 3. Run the program:
    java QuizApp
+## Project Structure
+QUIZ-CONS
+│
+├── QuizApp.java
+└── README.md
